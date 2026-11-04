@@ -153,7 +153,7 @@ Retenez ce résultat, il sera expliqué dans l'exercice 4 !
 
 > 💬 **Votre réponse :**
 >
-> _Remplacez ce texte par votre réponse._
+> Le client et le site web ne sont pas sur le même réseau
 
 ---
 
